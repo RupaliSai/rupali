@@ -41,6 +41,23 @@ body .js {
   color: #fff176;
 }
 
+body .bootstrap {
+  color: blue;
+}
+
+body .angular {
+  color: rgb(rgba(211, 8, 8, 0.856), green, blue);
+}
+
+body .laravel{
+  color: rgb(rgb(216, 8, 8), green, blue);
+}
+
+body .angular {
+  color: rgb(rgba(211, 8, 8, 0.856), green, blue);
+} ;
+
+
 .skill-single {
   border-radius: 6px;
 }
